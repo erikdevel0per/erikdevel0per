@@ -17,7 +17,3 @@
 > **Node.js** (Javascript/Typescript), **Java**, **C**, **C++*, .Net (C# e VB), **Python**, **PHP**<br>
 > **Mysql**, **MariaDB**, **SQLite** e **Microsoft SQL Server**<br>
 > *Aprendendo mais sobre automação de processos e ciência de dados!*
-
-
-# 📧 Contato
->Para parcerias, entre em contato comigo por developer.erik@outlook.com
