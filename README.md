@@ -1,16 +1,19 @@
-## Hi there 👋
+#  :wave: Olá, usuário!
+- 😊 Tenho 19 anos de idade
+- 💻 Sou um **Desenvolvedor Full Stack**, me especializando em **Engenharia Reversa**
+- 🛠️ Minhas principais linguagens de programação são **Java e C++**
+- 🌍 Moro no **Brasil, no Estado do Rio de Janeiro**
+- 📕 Estudando **Engenharia da Computação e Sistemas de Informação**
+- 🤖 Estou muito interessado e curioso sobre **hardware** e **robótica**
+- ⚙️ Adoro **criar automatizações** e **sistemas financeiros e organizacionais**
 
-<!--
-**erikdevel0per/erikdevel0per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :art: Front-end:
+> **HTML**, **CSS**, **JS/TS**, **React** (JSX/TSX), **Tailwind CSS**, **Next.JS** e **Tauri** (Desktop Apps)<br>
+> **Figma**<br>
+> *Procurando estudar mais sobre Svelte e Ember*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :gear: Back-end:
+> **Node.js** (Javascript/Typescript), **Java**, **C**, **C++*, .Net (C# e VB), **Python**, **PHP**<br>
+> **Mysql**, **MariaDB**, **SQLite** e **Microsoft SQL Server**<br>
+> *Aprendendo mais sobre automação de processos e ciência de dados!*
