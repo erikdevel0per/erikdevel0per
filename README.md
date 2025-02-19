@@ -14,6 +14,6 @@
 > *Procurando estudar mais sobre Svelte e Ember*
 
 ## :gear: Back-end:
-> **Node.js** (Javascript/Typescript), **Java**, **C**, **C++*, .Net (C# e VB), **Python**, **PHP**<br>
+> **Node.js** (Javascript/Typescript), **Java**, **C**, **C++**, .Net (C# e VB), **Python**, **PHP**<br>
 > **Mysql**, **MariaDB**, **SQLite** e **Microsoft SQL Server**<br>
 > *Aprendendo mais sobre automação de processos e ciência de dados!*
