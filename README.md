@@ -3,7 +3,7 @@
 - 💻 Sou um **Desenvolvedor Full Stack**, me especializando em **Engenharia Reversa**
 - 🛠️ Minhas principais linguagens de programação são **Java e C++**
 - 🌍 Moro no **Brasil, no Estado do Rio de Janeiro**
-- 📕 Estudando **Engenharia da Computação e Sistemas de Informação**
+- 📕 Estudando **Engenharia da Computação e Análise e Desenvolvimento de Sistemas**
 - 🤖 Estou muito interessado e curioso sobre **hardware** e **robótica**
 - ⚙️ Adoro **criar automatizações** e **sistemas financeiros e organizacionais**
 
