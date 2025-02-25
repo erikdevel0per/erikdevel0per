@@ -1,10 +1,10 @@
 #  :wave: Olá, usuário!
 - 😊 Tenho 19 anos de idade
-- 💻 Sou um **Desenvolvedor Full Stack**, me especializando em **Engenharia Reversa**
+- 💻 Sou um **Desenvolvedor Full Stack**, focado no aprendizado de **Gestão de Projetos**
 - 🛠️ Minhas principais linguagens de programação são **Java e C++**
 - 🌍 Moro no **Brasil, no Estado do Rio de Janeiro**
 - 📕 Estudando **Engenharia da Computação e Análise e Desenvolvimento de Sistemas**
-- 🤖 Estou muito interessado e curioso sobre **hardware** e **robótica**
+- 🤖 Estou muito interessado e curioso sobre **hardware**,**robótica** e **sistemas**
 - ⚙️ Adoro **criar automatizações** e **sistemas financeiros e organizacionais**
 
 
