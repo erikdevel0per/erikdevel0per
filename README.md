@@ -16,4 +16,4 @@
 ## :gear: Back-end:
 > **Node.js** (Javascript/Typescript), **Java**, **C**, **C++**, .Net (C# e VB), **Assembly**, **PHP**<br>
 > **Mysql**, **MariaDB**, **SQLite** e **Microsoft SQL Server**<br>
-> *Aprendendo mais sobre automação de processos e ciência de dados!*
+> *Aprendendo mais sobre automação de processos e ciência de dados!.*
