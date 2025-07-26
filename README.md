@@ -1,11 +1,11 @@
 #  :wave: Olá, usuário!
-- 😊 Tenho 19 anos de idade
+- 😊 Tenho 20 anos de idade
 - 💻 Sou um **Desenvolvedor Full Stack**, me especializando em **Engenharia Reversa**
-- 🛠️ Minhas principais linguagens de programação são **Java** e **C++**
+- 🛠️ Minhas principais linguagens de programação são **Java**, **C++** e **Aseembly**
 - 🌍 Moro no **Brasil**, no Estado do **Rio de Janeiro**
 - 📕 Estudando **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**
 - 🤖 Estou muito interessado e curioso sobre **hardware** e **robótica**
-- ⚙️ Adoro **criar automatizações** e **sistemas financeiros** e **organizacionais**
+- ⚙️ Gosto de **criar processos automatizados** e **praticar engenharia reversa**
 
 
 ## :art: Front-end:
@@ -16,4 +16,4 @@
 ## :gear: Back-end:
 > **Node.js** (Javascript/Typescript), **Java**, **C**, **C++**, .Net (C# e VB), **Assembly**, **PHP**<br>
 > **Mysql**, **MariaDB**, **SQLite** e **Microsoft SQL Server**<br>
-> *Aprendendo mais sobre automação de processos e ciência de dados!.*
+> *Aprendendo mais sobre automação de processos e segurança da informação!.*
