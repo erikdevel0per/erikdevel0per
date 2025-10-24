@@ -3,7 +3,7 @@
 - 💻 Sou um **Desenvolvedor Full Stack**, aprimorando meu conhecimento em **Matemática Aplicada**
 - 🛠️ Minhas principais linguagens de programação são **Java**, **C++** e **Assembly**
 - 🌍 Moro no **Brasil**, no Estado do **Rio de Janeiro**
-- 📕 Formado em **Análise e Desenvolvimento de Sistemas** e Graduando em **Engenharia da Computação**.
+- 📕 Formado em **Análise** e **Desenvolvimento de Sistemas** e Graduando em **Engenharia da Computação**.
 - 🤖 Estou muito curioso e interessado sobre **Eletrônica** e **Mecatrônica**
 - ⚙️ Gosto de criar **Circuitos Eletrônicos** e processos envolvendo **Engenharia Reversa**
 
