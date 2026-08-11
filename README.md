@@ -1,7 +1,7 @@
 #  :wave: Olá, usuário!
-- 😊 Tenho 20 anos de idade
+- 😊 Tenho 21 anos de idade
 - 💻 Sou um **Desenvolvedor Full Stack**, aprimorando meu conhecimento em **Matemática Aplicada**
-- 🛠️ Minhas principais linguagens de programação são **Java**, **C++** e **Assembly**
+- 🛠️ Minhas principais linguagens de programação são **Java** e **C++**
 - 🌍 Moro no **Brasil**, no Estado do **Rio de Janeiro**
 - 📕 Formado em **Análise** e **Desenvolvimento de Sistemas** e Graduando em **Engenharia da Computação**.
 - 🤖 Estou muito curioso e interessado sobre **Eletrônica** e **Mecatrônica**
